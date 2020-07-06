@@ -216,12 +216,8 @@
   "testimonials":{
     "testimonials":[
       {
-		"user":"Dhanannjay Deo",
-        "text":" From Djay"
-      },
-      {
-	  		"user":"Alvaro Gil",
-        "text":"From Alvaro"
+	  		"user":"Alvaro Gil, Principal Data Scientist,  General Electric",
+        "text":"Manisha, Thank you for your contributions to the development and deployment of the fingerprint project. Your contributions were key to deploy a set of analytics that capture failures in different components of a wind turbine. The extra work and time dedicated to the creation of the UI are also important to capture value from this work. I appreciate so much having you in the team and the team has enjoyed interacting with you during this internship."
       }
     ]
   }
