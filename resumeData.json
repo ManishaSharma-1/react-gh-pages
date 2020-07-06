@@ -128,7 +128,12 @@
 		"proficiency":"Advanced"
 	},
 	{
-		"name":"SAAS",
+		"name":"SAS",
+		"level":"50%",
+		"proficiency":"Intermediate"
+	},
+	{
+		"name":"SPSS",
 		"level":"50%",
 		"proficiency":"Intermediate"
 	},
