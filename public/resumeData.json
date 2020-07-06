@@ -17,7 +17,7 @@
       "state":"WA",
       "zip": "98121"
     },
-    "resumedownload":"https://drive.google.com/file/d/1UXsEQpF4hbPQKrh8kFzadsF2-_HZxI4x/view?usp=sharing",
+   "resumedownload":"https://drive.google.com/file/d/1UXsEQpF4hbPQKrh8kFzadsF2-_HZxI4x/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -39,7 +39,6 @@
         "url":"https://github.com/ManishaSharma-1/",
         "className":"fa fa-github"
       }
- 
     ]
   },
   "resume":{
@@ -57,7 +56,7 @@
         "degree":"Bachelors in Computer Engineering",
         "graduated":"June 2016",
 		"gpa": "3.72/4",
-        "description":"My undergraduate education in Computer Engineering played a pivotal role in laying a strong technical foundation for graduate school studies. Courses related to Distributed Database helped me gain knowledge about the nuances involved in design and implementation of distributed database for enterprise applications using XML. Particularly significant was the course in Machine Learning and Artificial Intelligence during which I learnt how to impart decision making capabilities using supervised and unsupervised learning. Working on the project involved in these courses, exposed me to the power of data science and helped me identify my true calling of being a Data Scientist."
+        "description":"My undergraduate education in Computer Engineering played a pivotal role in laying a strong technical foundation for graduate school studies. Courses related to Distributed Database helped me gain knowledge about the nuances involved in design and implementation of distributed database for enterprise applications using XML. Particularly significant was the course in Machine Learning and Artificial Intelligence during which I learnt how to impart decision making capabilities using supervised and unsupervised learning. Working on the project involved in these courses, exposed me to the power of data science and helped me identify my true calling of being a Data Scientist."
       }
     ],
     "work":[
@@ -84,44 +83,37 @@
 		"name":"Python",
 		"level":"100%",
 		"proficiency":"Proficient"
-
 	},
 	{
 		"name":"Tableau",
 		"level":"100%",
 		"proficiency":"Proficient"
-
 	},
 	{
 		"name":"Tensorflow",
 		"level" : "75%",
 		"proficiency":"Advanced"
-
 	},
 	{
 		"name":"Plotly",
 		"level":"75%",
 		"proficiency":"Advanced"
-
 	},
 	
 	{
 		"name":"Git",
 		"level" : "75%",
 		"proficiency":"Advanced"
-
 	},
 	{
 		"name":"Flask",
 		"level" : "75%",
 		"proficiency":"Advanced"
-
 	},
 	{
 		"name":"Algorithms and Data Structures",
 		"level":"75%",
 		"proficiency":"Advanced"
-
 	},
 	
 	 
@@ -129,45 +121,36 @@
 		"name":"MongoDB",
 		"level":"75%",
 		"proficiency":"Advanced"
-
 	},
-
-
 	{
 		"name":"R",
 		"level":"75%",
 		"proficiency":"Advanced"
-
 	},
 	{
 		"name":"SAAS",
 		"level":"50%",
 		"proficiency":"Intermediate"
-
 	},
 	{
 		"name":"JAVA",
 		"level":"50%",
 		"proficiency":"Intermediate"
-
 	},
 	{
 		"name":"AWS",
 		"level":"50%",
 		"proficiency":"Intermediate"
-
 	},
 	{
 		"name":"Matlab",
 		"level":"25%",
 		"proficiency":"Beginner"
-
 	}, 
 	{
 		"name":"Docker",
 		"level":"25%",
 		"proficiency":"Beginner"
-
 	}
     ]
   },
@@ -182,47 +165,54 @@
       {
         "title":"Movie Recommendation System",
         "category":"Unsupervised Machine Learning, Python,Collaborative Filtering, Content Based Filtering, Latent Factor Model, EDA,RMSE, Jupyter Notebook",
+        "image":"movie.jpg",
         "image":"movie.JPG",
         "url":"https://github.com/ManishaSharma-1/movie_recommendation_system/"
       },
       {
         "title":"Twitter Toxicity Classification",
         "category":"Natural language Processing, Tweepy, Flask, Random 0 , BERT, Logistic Regression, Naive Bayes - Bag of Words",
+        "image":"twitter.jpg",
         "image":"twitter.JPG",
         "url":"https://github.com/ManishaSharma-1/TwittertoxicityClassification"
       },
       {
         "title":"Recruiter Management System",
         "category":"ReactJs, NodeJS, SQL, REST API",
+        "image":"recruiter.jpg",
         "image":"recruiter.JPG",
         "url":"https://school-recruiter.herokuapp.com/"
       },
       {
         "title":"Comparison of Classification Techniques ",
         "category":"Imbalanaced Data,Feature Engineering, Feature Selection,grid search, SVM, Random Forest,Logistic Regression, Naive Bayes, Decision Boundaries, Python, Research",
+        "image":"credit.jpg",
         "image":"credit.JPG",
         "url":"https://github.com/ManishaSharma-1/credit_risk_assessment"
       },
       {
         "title":"Search Engine",
         "category":"Java, Lucene, Python, Snippet Generation, Query Suggestion, Evaluation metrics for various retrieval models",
+        "image":"search.jpg",
         "image":"search.JPG",
         "url":"https://github.com/ManishaSharma-1/search_engine"
       },
       {
         "title":"Price Prediction Airbnb",
         "category":"Python, information Retrieval, Beautiful Soup, Web Scrapping, Outlier detection Lemmatization,Stemming, SVM, Random Forest, XGBoost, Linear Regression, MSE  ",
+        "image":"price.jpg",
         "image":"price.JPG",
         "url":"https://github.com/ManishaSharma-1/PredictingPriceAirBnB"
       }, 
 	   {
         "title":"Pet Breed Classification",
         "category":"Supervised Classification, Python, tensorflow, CNN, Transfer Learning - ResNet50, Flask, FAST.ai,GIT",
+        "image":"pet.jpg",
         "image":"pet.JPG",
         "url":"https://github.com/AnnieCRY/DS5500-Project2"
       }
     ]
-  },
+ },
   "testimonials":{
     "testimonials":[
       {
@@ -231,7 +221,6 @@
       },
       {
 	  		"user":"Alvaro Gil",
-
         "text":"From Alvaro"
       }
     ]
