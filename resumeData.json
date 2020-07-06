@@ -1,0 +1,243 @@
+{
+  "main": {
+    "name":"Manisha Sharma",
+    "occupation":"graduated with my Master's in",
+    "description":"I have more than 2.7 years of professional work experience in Data Science and Software Development Engineering.I am skilled in Machine Learning, Python, Natural Language Processing, Data Analysis, and Data Visualization",
+    "image":"profilepic.jpg",
+    "bio":"I like to go on treks brings me close to our mother earth. I am totally someone who is up for coffee at anytime of the day. I like to experiment with various cusinies and would love to make them. I am curious and like to explore things I know and things that I am unaware of. I push myself to an extent that I know I can achieve my set target and give my all to achieve it. I enjoy volunteer work and community activities. I started reading when I was in 4th grade and I have not stopped till date. Reading keeps me occupied but sometimes, I do like to binge watch series and movies too",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sharma.manis@northeastern.edu",
+    "phone": "617-777-5291",
+    "school": "Northeastern University, Boston MA",
+    "major": "Data Science",
+    "giturl":"https://github.com/ManishaSharma-1/",
+    "address":{
+      "street":"500 Wall Street",
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98121"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1V6KW4PrZGgjXhhoTVFu0gxZhR_T97RD5/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100001026529320",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/manisha1206/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/manisha_2194/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ManishaSharma-1/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"manisha.ssharma2194@gmail.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I may not be perfect but I am learning.",
+    "education":[
+      {
+        "school":"Northeastern University",
+        "degree":"Masters in Data Science",
+        "graduated":"Expected in August 2020",
+		"gpa": "3.7/4",
+        "description":"My consistent desire to learn more brought me to the States to pursue my Master's in Data Science.I am a data enthusiast and would love playing with numbers to predict interesting patterns. I understood how to think statistically, approach a problem with various angles and how machine learning helps in reducing the cost and helps productivity.I think I have come a long way purely through dedication and focus. My involvement in academic and professional pursuits have increased my awareness of the larger picture and taught me to be more organized, patient and diligent and to look for creative solutions to problems."
+      },
+      {
+        "school":"Mumbai University",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"June 2016",
+		"gpa": "3.72/4",
+        "description":"My undergraduate education in Computer Engineering played a pivotal role in laying a strong technical foundation for graduate school studies. Courses related to Distributed Database helped me gain knowledge about the nuances involved in design and implementation of distributed database for enterprise applications using XML. Particularly significant was the course in Machine Learning and Artificial Intelligence during which I learnt how to impart decision making capabilities using supervised and unsupervised learning. Working on the project involved in these courses, exposed me to the power of data science and helped me identify my true calling of being a Data Scientist."
+      }
+    ],
+    "work":[
+      {
+        "company":"General Electric.",
+        "title":"Data Scientist Intern",
+        "years":"Jan 2020 - June 2020",
+        "description":"My learning curve was exponential here. I have had a wonderful experience. I honed my skills that include machine learning, data analysis, data science, data visualization and UI  but learning something new everyday is the fuel to my fire. I gained the capability to communicate with non - technical audiences as well as collaborate with clients due to the exposure gained . The project I worked on involved tasks to collect high resolution data from various turbines when they trip due to a fault or an event resulting in an alarm. As a Fingerprint Analyser, our system was capable of functionalities like creating new trip files, finding faults in them, processing the results and also visualizing the results. The crucial part of the project was to come up with an intuitive User Interface to display these following use cases, which could be easily assimilated by the end users. I rounded up some novel technologies like flask, mongoDB, celery and plotly. These innovative techniques had a tremendous impact on the UI and was much appreciated by the end users. Our system was growing tremendously with more turbines and trip files, we then migrated to AWS."
+      },
+      {
+        "company":"Newgen Software Technologies LTD",
+        "title":"Software Development Engineer",
+        "years":"June 2016 - July 2018",
+        "description":"A strong desire to gain hands-on experience of working in a corporate environment led me to join Newgen Software Technologies Ltd. in June 2016. I have witnessed the value of small improvements in business processes is highly under-rated, until their cumulative effect manifests itself upon implementation. I I utilised this newly acquired knowledge to design scalable and light weight architectural products for various client. My project involved Automation of Invoicing Process for Lupin pharmaceuticals. Earlier, the invoicing process at Lupin required multiple approvals and the entire process was tedious and complicated. I developed an automated system for processing and tracking of all invoices within the company that was simple and efficient."
+      }
+    ],
+    "skills":[
+    {
+		"name":"SQL",
+		"level":"100%", 
+		"proficiency":"Proficient"
+	},
+	{
+		"name":"Python",
+		"level":"100%",
+		"proficiency":"Proficient"
+
+	},
+	{
+		"name":"Tableau",
+		"level":"100%",
+		"proficiency":"Proficient"
+
+	},
+	{
+		"name":"Tensorflow",
+		"level" : "75%",
+		"proficiency":"Advanced"
+
+	},
+	{
+		"name":"Plotly",
+		"level":"75%",
+		"proficiency":"Advanced"
+
+	},
+	
+	{
+		"name":"Git",
+		"level" : "75%",
+		"proficiency":"Advanced"
+
+	},
+	{
+		"name":"Flask",
+		"level" : "75%",
+		"proficiency":"Advanced"
+
+	},
+	{
+		"name":"Algorithms and Data Structures",
+		"level":"75%",
+		"proficiency":"Advanced"
+
+	},
+	
+	 
+	{
+		"name":"MongoDB",
+		"level":"75%",
+		"proficiency":"Advanced"
+
+	},
+
+
+	{
+		"name":"R",
+		"level":"75%",
+		"proficiency":"Advanced"
+
+	},
+	{
+		"name":"SAAS",
+		"level":"50%",
+		"proficiency":"Intermediate"
+
+	},
+	{
+		"name":"JAVA",
+		"level":"50%",
+		"proficiency":"Intermediate"
+
+	},
+	{
+		"name":"AWS",
+		"level":"50%",
+		"proficiency":"Intermediate"
+
+	},
+	{
+		"name":"Matlab",
+		"level":"25%",
+		"proficiency":"Beginner"
+
+	}, 
+	{
+		"name":"Docker",
+		"level":"25%",
+		"proficiency":"Beginner"
+
+	}
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Auto Access to Employees",
+        "category":"Supervised machine Learning, Flask, Jinja2, MYSQL, Plotly, CSS, Python, Naive Bayes, Logistic Regression, EDA",
+        "image":"auto.jpg",
+        "url":"https://github.com/ManishaSharma-1/AutoAccessToEmployees"
+      },
+      {
+        "title":"Movie Recommendation System",
+        "category":"Unsupervised Machine Learning, Python,Collaborative Filtering, Content Based Filtering, Latent Factor Model, EDA,RMSE, Jupyter Notebook",
+        "image":"movie.jpg",
+        "url":"https://github.com/ManishaSharma-1/movie_recommendation_system/"
+      },
+      {
+        "title":"Twitter Toxicity Classification",
+        "category":"Natural language Processing, Tweepy, Flask, Random 0 , BERT, Logistic Regression, Naive Bayes - Bag of Words",
+        "image":"twitter.jpg",
+        "url":"https://github.com/ManishaSharma-1/TwittertoxicityClassification"
+      },
+      {
+        "title":"Recruiter Management System",
+        "category":"ReactJs, NodeJS, SQL, REST API",
+        "image":"recruiter.jpg",
+        "url":"https://school-recruiter.herokuapp.com/"
+      },
+      {
+        "title":"Comparison of Classification Techniques ",
+        "category":"Imbalanaced Data,Feature Engineering, Feature Selection,grid search, SVM, Random Forest,Logistic Regression, Naive Bayes, Decision Boundaries, Python, Research",
+        "image":"credit.jpg",
+        "url":"https://github.com/ManishaSharma-1/credit_risk_assessment"
+      },
+      {
+        "title":"Search Engine",
+        "category":"Java, Lucene, Python, Snippet Generation, Query Suggestion, Evaluation metrics for various retrieval models",
+        "image":"search.jpg",
+        "url":"https://github.com/ManishaSharma-1/search_engine"
+      },
+      {
+        "title":"Price Prediction Airbnb",
+        "category":"Python, information Retrieval, Beautiful Soup, Web Scrapping, Outlier detection Lemmatization,Stemming, SVM, Random Forest, XGBoost, Linear Regression, MSE  ",
+        "image":"price.jpg",
+        "url":"https://github.com/ManishaSharma-1/PredictingPriceAirBnB"
+      }, 
+	   {
+        "title":"Pet Breed Classification",
+        "category":"Supervised Classification, Python, tensorflow, CNN, Transfer Learning - ResNet50, Flask, FAST.ai,GIT",
+        "image":"pet.jpg",
+        "url":"https://github.com/AnnieCRY/DS5500-Project2"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+		"user":"Dhanananjay",
+        "text":" From Djay"
+      },
+      {
+	  		"user":"Alvaro",
+
+        "text":"From Alvaro"
+      }
+    ]
+  }
+}
