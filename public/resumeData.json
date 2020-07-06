@@ -186,43 +186,43 @@
       {
         "title":"Movie Recommendation System",
         "category":"Unsupervised Machine Learning, Python,Collaborative Filtering, Content Based Filtering, Latent Factor Model, EDA,RMSE, Jupyter Notebook",
-        "image":"movie.jpg",
+        "image":"movie.JPG",
         "url":"https://github.com/ManishaSharma-1/movie_recommendation_system/"
       },
       {
         "title":"Twitter Toxicity Classification",
         "category":"Natural language Processing, Tweepy, Flask, Random 0 , BERT, Logistic Regression, Naive Bayes - Bag of Words",
-        "image":"twitter.jpg",
+        "image":"twitter.JPG",
         "url":"https://github.com/ManishaSharma-1/TwittertoxicityClassification"
       },
       {
         "title":"Recruiter Management System",
         "category":"ReactJs, NodeJS, SQL, REST API",
-        "image":"recruiter.jpg",
+        "image":"recruiter.JPG",
         "url":"https://school-recruiter.herokuapp.com/"
       },
       {
         "title":"Comparison of Classification Techniques ",
         "category":"Imbalanaced Data,Feature Engineering, Feature Selection,grid search, SVM, Random Forest,Logistic Regression, Naive Bayes, Decision Boundaries, Python, Research",
-        "image":"credit.jpg",
+        "image":"credit.JPG",
         "url":"https://github.com/ManishaSharma-1/credit_risk_assessment"
       },
       {
         "title":"Search Engine",
         "category":"Java, Lucene, Python, Snippet Generation, Query Suggestion, Evaluation metrics for various retrieval models",
-        "image":"search.jpg",
+        "image":"search.JPG",
         "url":"https://github.com/ManishaSharma-1/search_engine"
       },
       {
         "title":"Price Prediction Airbnb",
         "category":"Python, information Retrieval, Beautiful Soup, Web Scrapping, Outlier detection Lemmatization,Stemming, SVM, Random Forest, XGBoost, Linear Regression, MSE  ",
-        "image":"price.jpg",
+        "image":"price.JPG",
         "url":"https://github.com/ManishaSharma-1/PredictingPriceAirBnB"
       }, 
 	   {
         "title":"Pet Breed Classification",
         "category":"Supervised Classification, Python, tensorflow, CNN, Transfer Learning - ResNet50, Flask, FAST.ai,GIT",
-        "image":"pet.jpg",
+        "image":"pet.JPG",
         "url":"https://github.com/AnnieCRY/DS5500-Project2"
       }
     ]

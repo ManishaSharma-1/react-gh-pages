@@ -31,7 +31,7 @@ class Header extends Component {
 	     <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
         <ul id="nav" className="nav">
-			<li><a className="smoothscroll" href="#hero" title="Intro">Home</a></li>
+			<li><a className="smoothscroll" href="#home" title="Intro">Home</a></li>
 			<li><a className="smoothscroll" href="#about" title="About">About</a></li>
 			<li><a className="smoothscroll" href="#resume" title="Resume">Resume</a></li>
 			<li><a className="smoothscroll" href="#portfolio" title="Projects">Projects</a></li>
